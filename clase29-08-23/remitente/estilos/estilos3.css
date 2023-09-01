@@ -1,0 +1,19 @@
+h1 {
+    color:magenta;
+    font-size: 90px;
+    font-style: initial;
+}
+
+p{
+    color: blue;
+    font-size: 250px;
+}
+
+body{
+    background-color: black;
+}
+
+.a {
+    color: crimson;
+    font-size: 50px;
+}

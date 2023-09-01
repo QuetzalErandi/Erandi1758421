@@ -1,0 +1,19 @@
+h1 {
+    color: brown;
+    font-size:300px;
+}
+
+p{
+    color: blue;
+    font-size: 50px;
+}
+
+body{
+    background-color: greenyellow;
+}
+
+.a {
+    color: pink;
+    font-style: inherit;
+    font-size: 50px;
+}
